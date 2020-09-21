@@ -1,0 +1,13 @@
+C:\Users\Tim Chiu\OneDrive\coding\VisualStudio\2020\catEncyption-core\catEncyption-core\bin\Debug\netcoreapp3.1\catEncyption-core.exe
+C:\Users\Tim Chiu\OneDrive\coding\VisualStudio\2020\catEncyption-core\catEncyption-core\bin\Debug\netcoreapp3.1\catEncyption-core.deps.json
+C:\Users\Tim Chiu\OneDrive\coding\VisualStudio\2020\catEncyption-core\catEncyption-core\bin\Debug\netcoreapp3.1\catEncyption-core.runtimeconfig.json
+C:\Users\Tim Chiu\OneDrive\coding\VisualStudio\2020\catEncyption-core\catEncyption-core\bin\Debug\netcoreapp3.1\catEncyption-core.runtimeconfig.dev.json
+C:\Users\Tim Chiu\OneDrive\coding\VisualStudio\2020\catEncyption-core\catEncyption-core\bin\Debug\netcoreapp3.1\catEncyption-core.dll
+C:\Users\Tim Chiu\OneDrive\coding\VisualStudio\2020\catEncyption-core\catEncyption-core\bin\Debug\netcoreapp3.1\catEncyption-core.pdb
+C:\Users\Tim Chiu\OneDrive\coding\VisualStudio\2020\catEncyption-core\catEncyption-core\obj\Debug\netcoreapp3.1\catEncyption-core.csprojAssemblyReference.cache
+C:\Users\Tim Chiu\OneDrive\coding\VisualStudio\2020\catEncyption-core\catEncyption-core\obj\Debug\netcoreapp3.1\catEncyption-core.AssemblyInfoInputs.cache
+C:\Users\Tim Chiu\OneDrive\coding\VisualStudio\2020\catEncyption-core\catEncyption-core\obj\Debug\netcoreapp3.1\catEncyption-core.AssemblyInfo.cs
+C:\Users\Tim Chiu\OneDrive\coding\VisualStudio\2020\catEncyption-core\catEncyption-core\obj\Debug\netcoreapp3.1\catEncyption-core.csproj.CoreCompileInputs.cache
+C:\Users\Tim Chiu\OneDrive\coding\VisualStudio\2020\catEncyption-core\catEncyption-core\obj\Debug\netcoreapp3.1\catEncyption-core.dll
+C:\Users\Tim Chiu\OneDrive\coding\VisualStudio\2020\catEncyption-core\catEncyption-core\obj\Debug\netcoreapp3.1\catEncyption-core.pdb
+C:\Users\Tim Chiu\OneDrive\coding\VisualStudio\2020\catEncyption-core\catEncyption-core\obj\Debug\netcoreapp3.1\catEncyption-core.genruntimeconfig.cache
