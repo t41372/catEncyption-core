@@ -1,4 +1,10 @@
 # catEncyption
+
+Release:
+- [Windows](https://github.com/t41372/catEncyption-core/releases)
+
+
+
 This is a program that help human to encrypt their message into the form of Meow!! 
 
 #### How does it works?
