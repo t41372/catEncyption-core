@@ -100,7 +100,7 @@ namespace catEncyption_core
         public static string decode(string sourceText, string meow)//decode Meow Meow code to original string
         {
             //Meow to binary
-            string[] textInBinary = sourceText.Replace(meow, "1").Replace("!", "0").Split(" ");// from Meow -> binary array
+            string[] textInBinary = sourceText.Replace(meow, "1").Replace("!", "0").Split(' ');// from Meow -> binary array
 
             //remove every empty room. If there are any room contains nothing, it will throw error while decoding base64 -> string
             textInBinary = deleteEmptyRoomInArray(textInBinary);
