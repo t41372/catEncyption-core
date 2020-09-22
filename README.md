@@ -1,11 +1,16 @@
-# catEncyption
+# catEncyption core
 
 Release:
 - [Windows](https://github.com/t41372/catEncyption-core/releases)
 
+GUI Version:
+- [catEncyption-GUI](https://github.com/t41372/catEncyption-GUI)
+
 
 
 This is a program that help human to encrypt their message into the form of Meow!! 
+
+![image](https://github.com/t41372/catEncyption-core/blob/master/cat%20encoder%20core%20ver%201.0%20picture.jpg)
 
 #### How does it works?
 
