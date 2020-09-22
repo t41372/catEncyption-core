@@ -82,7 +82,6 @@ namespace catEncyption_core
             byte[] cacheFromSourceText = System.Text.Encoding.Default.GetBytes(sourceText);
             char[] textInBase64 = Convert.ToBase64String(cacheFromSourceText).ToCharArray();
 
-            printer("original base64 text:", textInBase64, false, false);
 
             //base64 -> ascii -> binary
             int[] textInAscii = new int[textInBase64.Length];
