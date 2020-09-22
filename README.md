@@ -1,13 +1,15 @@
 # catEncyption
-A program that help human to encrypt their message into the form of Meow!! 
+This is a program that help human to encrypt their message into the form of Meow!! 
+
+#### How does it works?
 
 This program basically do something like this to encode your text:
 
-your text -> base64 -> unicode (number) -> binary -> Meow Meow!!
+> your text -> base64 -> unicode (number) -> binary -> Meow Meow!!
 
-and follow reverse steps to decode text.
+and follow the reverse steps to decode text.
 
-
+#### Example
 
 For example, encode the following texts
 
