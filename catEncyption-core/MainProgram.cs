@@ -1,6 +1,13 @@
 ﻿using System;
-using System.Collections.Generic;
 using System.Text;
+
+
+/* Cat Encryption Core (CLI)
+ * 
+ * Tim Chiu
+ * 
+ * 2020.9.22 version 1.0
+ */
 
 namespace catEncyption_core
 {
