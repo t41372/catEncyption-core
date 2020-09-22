@@ -79,8 +79,10 @@ namespace catEncyption_core
             string Meow = meow;
             
             //original text -> base64
-            byte[] cacheFromSourceText = System.Text.Encoding.GetEncoding("unicode").GetBytes(sourceText);
+            byte[] cacheFromSourceText = System.Text.Encoding.Default.GetBytes(sourceText);
             char[] textInBase64 = Convert.ToBase64String(cacheFromSourceText).ToCharArray();
+
+            printer("original base64 text:", textInBase64, false, false);
 
             //base64 -> ascii -> binary
             int[] textInAscii = new int[textInBase64.Length];
@@ -120,18 +122,19 @@ namespace catEncyption_core
 
 
             //base64 text -> original text -> return
-            return Encoding.UTF8.GetString(Convert.FromBase64String(textInBase64));
+            return Encoding.Default.GetString(Convert.FromBase64String(textInBase64));
         }
 
 
         //! TOOL FUNCTIONS-==============
-        private static void printer(string whoAmI, Array source, bool space)//print an array
+        private static void printer(string whoAmI, Array source, bool space, bool showRoomNumber)//print an array
         {
             Console.Write("\n" + whoAmI + ": ");
 
             for(int indx = 0; indx < source.Length; indx ++)
             {
-                Console.Write("[" + indx + "]" + source.GetValue(indx));
+                if (showRoomNumber) Console.Write("[" + indx + "]");
+                Console.Write(source.GetValue(indx));
                 if (space) Console.Write(" ");
             }
             Console.WriteLine();
